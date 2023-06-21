@@ -3,7 +3,10 @@ The repository will include several reinforcement learning algorithms for discre
 
 
 ## CarRacing - Dueling DQN
-![Alt Text](https://github.com/KornelWitkowski/Deep-Q-learning-with-PyTorch/blob/main/gifs/DuelingDQN_Results.gif)
+![](https://github.com/KornelWitkowski/Deep-Q-learning-with-PyTorch/blob/main/gifs/DuelingDQN_Results.gif)
+
+## Pacman - Double DQN
+<img src="https://github.com/KornelWitkowski/Deep-Q-learning-with-PyTorch/blob/main/gifs/DoubleDQN_Results.gif" width="300" height="400" />
 
 ## LunarLander Continuous- Soft Action Critic
-![Alt Text](https://github.com/KornelWitkowski/Deep-Q-learning-with-PyTorch/blob/main/gifs/SAC_results.gif)
+![](https://github.com/KornelWitkowski/Deep-Q-learning-with-PyTorch/blob/main/gifs/SAC_Results.gif)
